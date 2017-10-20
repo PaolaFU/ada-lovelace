@@ -1,0 +1,28 @@
+h1{
+ outline: 1px solid yellow;
+ text-align: center;
+
+}
+
+
+
+img{
+  outline: 1px solid yellow;
+  max-width: 100%
+
+}
+
+.caja{
+  /*outline: 1px solid red;*//*paara saber como se dibuja los elementos en html*/
+  width: 400px;
+  padding: 15px;
+  border: 1px solid #999;
+  margin: 16px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 8px;
+
+}
+p{
+  outline: 1px solid green;
+}
